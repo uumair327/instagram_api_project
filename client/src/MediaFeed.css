@@ -1,0 +1,29 @@
+.media-feed {
+  margin-top: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.post {
+  margin-bottom: 30px;
+}
+
+.post-image {
+  width: 400px;
+  max-width: 100%;
+  height: auto;
+  border-radius: 6px;
+}
+
+.comments {
+  margin-top: 10px;
+}
+
+.comments input {
+  margin-top: 5px;
+  padding: 5px;
+}
+
+.comments button {
+  margin-left: 5px;
+  padding: 5px 10px;
+}
